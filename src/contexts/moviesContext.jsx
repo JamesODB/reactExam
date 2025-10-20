@@ -29,9 +29,6 @@ const MoviesContextProvider = (props) => {
   };
   console.log(myReviews);
 
-  //test for commit
-
-
   return (
     <MoviesContext.Provider
       value={{
