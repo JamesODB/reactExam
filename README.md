@@ -81,6 +81,11 @@ git push origin main
 
 **Please ensure you have completed these steps before the lab-based exam and that you can push changes to your remote repository on GitHub.**
 
+# React In-class Exam, October 2025
+
+James ODonoghue Butler, 20102342
+...
+
 
 ## 2. Submit to Moodle
 
@@ -89,9 +94,3 @@ Once you have created your GitHub repository you can submit it to Moodle (no nee
 You can submit it here:
 
 [https://moodle.setu.ie/mod/assign/view.php?id=4606492](https://moodle.setu.ie/mod/assign/view.php?id=4606492)
-
-
-# React In-class Exam, October 2025
-
-James ODonoghue Butler, 20102342
-...
